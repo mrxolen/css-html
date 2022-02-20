@@ -101,3 +101,7 @@ body {
 .news-read-more {
     color:black;
 }
+.banner {
+    background-color: aquamarine;
+    padding: 10px 0px 40px 0px;
+}
