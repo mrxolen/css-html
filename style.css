@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+}
+.form-search {
+    display: inline-block;
+}
+.form {
+    position: relative;
+    width: 100%;
+    max-width: 150px;
+}
+
+.form-input {
+    width: 100%;
+}
+
+.form-button {
+    border: none;
+    position: absolute;
+    top: 3px;
+    right: 3px;
+    height: 15px;
+    padding: 0 8px;
+}
