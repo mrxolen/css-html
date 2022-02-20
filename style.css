@@ -88,3 +88,16 @@ body {
 .main-button:first-child {
     margin-left: 0;
 }
+
+.news {
+    padding: 30px 17%; 
+}
+
+.news-read-more-wrapper {
+    width: 100%;
+    text-align: right;
+}
+
+.news-read-more {
+    color:black;
+}
