@@ -154,6 +154,9 @@ body {
     transition: background-color 0.3s;
     background-color: black;
 }
+.content {
+    padding: 10px 0 25px 0;
+}
 
 .content-table {
     margin: auto;
@@ -165,4 +168,14 @@ body {
 .content-table td {
     border: 2px solid black;
     padding: 20px;
+}
+
+footer {
+    padding: 20px 0px 25px 0px;
+    background-color: blanchedalmond;
+}
+
+.autor {
+    background-color: burlywood;
+    padding: 10px 0;
 }
