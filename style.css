@@ -154,3 +154,15 @@ body {
     transition: background-color 0.3s;
     background-color: black;
 }
+
+.content-table {
+    margin: auto;
+    text-align: center;
+    border: 2px solid black;
+}
+
+.content-table th,
+.content-table td {
+    border: 2px solid black;
+    padding: 20px;
+}
