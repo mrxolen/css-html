@@ -66,4 +66,8 @@ dot3.addEventListener('click', function() {
     dot3.classList.add('active')
     offset = 2400
     sliderLine.style.left = -offset + 'px';
-})
+});
+
+function AboutUs() {
+    alert('Apple Inc. ir ASV daudznacionāla korporācija, kas izstrādā un pārdod sadzīves elektroniku, datoru programmatūras un personālos datorus.')
+}
